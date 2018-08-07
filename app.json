@@ -1,0 +1,7 @@
+{
+  "pages": [
+    "pages/test/test",
+    "pages/view-h5/view-h5"
+  ],
+  "debug": true
+}
